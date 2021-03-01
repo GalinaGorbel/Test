@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../toolbar/Breadcrumb.scss"
+    ],
+    "names": [],
+    "file": "Breadcrumb.min.css"
+}

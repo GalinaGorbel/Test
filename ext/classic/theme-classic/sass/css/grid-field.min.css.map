@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../var/grid-field.scss"
+    ],
+    "names": [],
+    "file": "grid-field.min.css"
+}

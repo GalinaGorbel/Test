@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,cAAc,AAAC,CACX,OAAO,CAAE,KAAK,CACd,KAAK,CAAE,eAAe,CACtB,MAAM,CAAE,eAAe,CAK1B,AARD,AAKI,cALU,AAKT,eAAe,AAAC,CACb,YAAY,CAAE,gBAAgB,CACjC,AAGL,AAAA,YAAY,AAAC,CACT,OAAO,CAAE,SAAS,CACrB,AAED,AAAA,aAAa,AAAC,CACV,OAAO,CAAE,UAAU,CACnB,cAAc,CAAE,MAAM,CACzB",
+    "sources": [
+        "../table/Table.scss"
+    ],
+    "names": [],
+    "file": "Table.min.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,sBAAsB,AAAA,OAAO,AAAC,CAC1B,OAAO,CAAE,GACb,CAAC,AACD,AAAA,oBAAoB,AAAA,OAAO,AAAC,CACxB,OAAO,CAAE,GACb,CAAC,AAED,AACI,UADM,CACN,iBAAiB,AAAC,CACd,MAAM,CAAE,yBAAyB,CACjC,gBAAgB,CAAE,IAAI,CACzB",
+    "sources": [
+        "../field/Spinner.scss"
+    ],
+    "names": [],
+    "file": "Spinner.min.css"
+}

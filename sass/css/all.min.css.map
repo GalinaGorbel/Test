@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../var/all.scss"
+    ],
+    "names": [],
+    "file": "all.min.css"
+}

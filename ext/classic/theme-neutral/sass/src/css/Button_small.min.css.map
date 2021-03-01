@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../button/Button_small.scss"
+    ],
+    "names": [],
+    "file": "Button_small.min.css"
+}

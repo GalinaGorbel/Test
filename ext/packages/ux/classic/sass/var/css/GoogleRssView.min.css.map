@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../dashboard/GoogleRssView.scss"
+    ],
+    "names": [],
+    "file": "GoogleRssView.min.css"
+}

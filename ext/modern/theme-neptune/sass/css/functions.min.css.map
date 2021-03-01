@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../etc/functions.scss",
+        "../etc/functions/button-colors.scss",
+        "../etc/functions/toolbar-colors.scss"
+    ],
+    "names": [],
+    "file": "functions.min.css"
+}

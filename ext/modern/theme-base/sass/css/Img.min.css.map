@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AACI,MADE,AACD,YAAY,AAAC,CACV,UAAU,CAAE,MAAM,CAMrB,AARL,AAIQ,MAJF,AACD,YAAY,CAGT,GAAG,AAAC,CACA,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACf,AAPT,AAUI,MAVE,AAUD,iBAAiB,AAAC,CACf,iBAAiB,CAAE,SAAS,CAC5B,mBAAmB,CAAE,MAAM,CAC3B,eAAe,CAAE,SAAS,CAC7B",
+    "sources": [
+        "../src/Img.scss"
+    ],
+    "names": [],
+    "file": "Img.min.css"
+}

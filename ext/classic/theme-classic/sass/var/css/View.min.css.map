@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../tree/View.scss"
+    ],
+    "names": [],
+    "file": "View.min.css"
+}

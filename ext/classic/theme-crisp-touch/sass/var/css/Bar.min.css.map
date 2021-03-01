@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../tab/Bar.scss"
+    ],
+    "names": [],
+    "file": "Bar.min.css"
+}

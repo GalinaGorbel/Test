@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../var/Toolbar.scss"
+    ],
+    "names": [],
+    "file": "Toolbar.min.css"
+}

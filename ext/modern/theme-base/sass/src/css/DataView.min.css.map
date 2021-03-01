@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,uBADmB,CACnB,gBAAgB,CADpB,uBAAuB,CACD,YAAY,AAAC,CAC3B,OAAO,CAAE,YAAY,CACxB,AAGL,AACI,kBADc,CACd,qBAAqB,AAAC,CAClB,WAAW,CAAE,iBAAiB,CACjC,AAGL,AACI,kBADc,CACd,YAAY,AAAA,WAAW,AAAC,CACpB,WAAW,CAAE,iBAAiB,CACjC",
+    "sources": [
+        "../dataview/DataView.scss"
+    ],
+    "names": [],
+    "file": "DataView.min.css"
+}

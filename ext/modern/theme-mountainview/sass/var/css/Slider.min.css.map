@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../field/Slider.scss"
+    ],
+    "names": [],
+    "file": "Slider.min.css"
+}

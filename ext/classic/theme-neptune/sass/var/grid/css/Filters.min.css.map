@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../filters/Filters.scss"
+    ],
+    "names": [],
+    "file": "Filters.min.css"
+}

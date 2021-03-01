@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../view/Table.scss"
+    ],
+    "names": [],
+    "file": "Table.min.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../field/Spinner.scss"
+    ],
+    "names": [],
+    "file": "Spinner.min.css"
+}

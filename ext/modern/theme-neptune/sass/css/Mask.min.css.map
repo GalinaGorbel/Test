@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../var/Mask.scss"
+    ],
+    "names": [],
+    "file": "Mask.min.css"
+}

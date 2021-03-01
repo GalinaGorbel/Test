@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../etc/font-ext-variables.scss"
+    ],
+    "names": [],
+    "file": "font-ext-variables.min.css"
+}

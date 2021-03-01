@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../var/ProgressBar.scss"
+    ],
+    "names": [],
+    "file": "ProgressBar.min.css"
+}

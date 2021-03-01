@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../mixins/google-webfont.scss"
+    ],
+    "names": [],
+    "file": "google-webfont.min.css"
+}

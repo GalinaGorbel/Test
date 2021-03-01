@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../container/Accordion.scss"
+    ],
+    "names": [],
+    "file": "Accordion.min.css"
+}

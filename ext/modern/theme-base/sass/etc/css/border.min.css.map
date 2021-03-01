@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../mixins/border.scss"
+    ],
+    "names": [],
+    "file": "border.min.css"
+}

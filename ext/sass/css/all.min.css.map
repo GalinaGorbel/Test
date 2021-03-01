@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../etc/all.scss",
+        "../etc/font-awesome-variables.scss",
+        "../etc/font-ext-variables.scss"
+    ],
+    "names": [],
+    "file": "all.min.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,QAAQ,CACR,eAAe,AAAC,CACf,MAAM,CAAE,IAAI,CACZ",
+    "sources": [
+        "../src/Sheet.scss"
+    ],
+    "names": [],
+    "file": "Sheet.min.css"
+}

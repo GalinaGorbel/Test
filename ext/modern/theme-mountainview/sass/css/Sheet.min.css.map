@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,eAAe,AAAC,CACf,OAAO,CAAE,IAAI,CASb,AAVD,AAGC,eAHc,CAGd,SAAS,AAAC,CACT,aAAa,CAAE,IAAI,CAKnB,AATF,AAME,eANa,CAGd,SAAS,AAGP,WAAW,AAAC,CACZ,aAAa,CAAE,CAAC,CAChB",
+    "sources": [
+        "../src/Sheet.scss"
+    ],
+    "names": [],
+    "file": "Sheet.min.css"
+}

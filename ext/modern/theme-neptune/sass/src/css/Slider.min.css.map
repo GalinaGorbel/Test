@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAEI,eAFW,CAEX,kBAAkB,CADtB,eAAe,CACX,kBAAkB,AAAC,CACf,OAAO,CAAE,IAAI,CAChB",
+    "sources": [
+        "../field/Slider.scss"
+    ],
+    "names": [],
+    "file": "Slider.min.css"
+}

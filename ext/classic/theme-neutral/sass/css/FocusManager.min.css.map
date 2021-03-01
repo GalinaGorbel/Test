@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../var/FocusManager.scss"
+    ],
+    "names": [],
+    "file": "FocusManager.min.css"
+}

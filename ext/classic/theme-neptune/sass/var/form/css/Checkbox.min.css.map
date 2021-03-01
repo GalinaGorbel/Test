@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../field/Checkbox.scss"
+    ],
+    "names": [],
+    "file": "Checkbox.min.css"
+}

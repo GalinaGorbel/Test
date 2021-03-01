@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../column/Action.scss"
+    ],
+    "names": [],
+    "file": "Action.min.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,AAAC,CACN,OAAO,CAAE,GAAG,CACZ,gBAAgB,CAAE,IAAI,CACzB,AACD,AACI,QADI,AACH,WAAW,CADN,OAAO,AACZ,WAAW,AAAC,CACT,OAAO,CAAE,GAAG,CAKf,AAPL,AAIQ,QAJA,AACH,WAAW,CAGN,CAAC,CAAG,YAAY,CAJhB,OAAO,AACZ,WAAW,CAGN,CAAC,CAAG,YAAY,AAAC,CACf,gBAAgB,CAAE,IAAI,CACzB",
+    "sources": [
+        "../src/Panel.scss"
+    ],
+    "names": [],
+    "file": "Panel.min.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../resizer/Splitter.scss"
+    ],
+    "names": [],
+    "file": "Splitter.min.css"
+}

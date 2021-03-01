@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../dashboard/Dashboard.scss"
+    ],
+    "names": [],
+    "file": "Dashboard.min.css"
+}

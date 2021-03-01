@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../column/Widget.scss",
+        "../../grid-field.scss"
+    ],
+    "names": [],
+    "file": "Widget.min.css"
+}

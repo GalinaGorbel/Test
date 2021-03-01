@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../functions/button-colors.scss"
+    ],
+    "names": [],
+    "file": "button-colors.min.css"
+}

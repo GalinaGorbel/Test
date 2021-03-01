@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,AAAC,CACN,MAAM,CAAE,cAAc,CACtB,MAAM,CAAE,GAAG,CAWd,AAbD,AAKQ,SALC,CAIL,UAAU,AACL,aAAa,AAAC,CACX,aAAa,CAAE,CAAC,CACnB,AAPT,AASQ,SATC,CAIL,UAAU,AAKL,gBAAgB,AAAC,CACd,UAAU,CAAE,CAAC,CAChB,AAIT,AAAA,cAAc,AAAC,CACX,UAAU,CAAE,MAAM,CACrB",
+    "sources": [
+        "../src/MessageBox.scss"
+    ],
+    "names": [],
+    "file": "MessageBox.min.css"
+}

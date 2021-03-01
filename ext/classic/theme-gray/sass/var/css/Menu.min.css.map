@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../menu/Menu.scss"
+    ],
+    "names": [],
+    "file": "Menu.min.css"
+}

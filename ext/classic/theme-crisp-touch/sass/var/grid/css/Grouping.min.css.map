@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../feature/Grouping.scss"
+    ],
+    "names": [],
+    "file": "Grouping.min.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AACI,cADU,CACV,kBAAkB,AAAC,CACf,OAAO,CAAE,IAAI,CACb,MAAM,CAAE,IAAI,CACf,AAJL,AAMI,cANU,CAMV,kBAAkB,AAAC,CACf,UAAU,CAAE,MAAM,CAClB,KAAK,CAAE,IAAI,CACd,AATL,AAYQ,cAZM,AAWT,UAAU,CACP,kBAAkB,AAAC,CACf,OAAO,CAAE,KAAK,CACjB,AAdT,AAgBQ,cAhBM,AAWT,UAAU,CAKP,kBAAkB,AAAC,CACf,OAAO,CAAE,IAAI,CAChB",
+    "sources": [
+        "../plugin/ListPaging.scss"
+    ],
+    "names": [],
+    "file": "ListPaging.min.css"
+}

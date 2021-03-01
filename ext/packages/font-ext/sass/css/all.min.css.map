@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,UAAU,CACN,WAAW,CAAE,OAAO,CACpB,GAAG,CAAC,kDAAyC,CAC7C,GAAG,CAAC,wDAA+C,CAAC,2BAA2B,CAC/E,mDAA0C,CAAC,cAAc,CACzD,kDAAyC,CAAC,kBAAkB,CAC5D,wDAA+C,CAAC,aAAa,CAC7D,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM",
+    "sources": [
+        "../etc/all.scss"
+    ],
+    "names": [],
+    "file": "all.min.css"
+}

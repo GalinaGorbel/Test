@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,kBAAkB,CAAC,SAAS,AAAC,CACzB,MAAM,CAAE,CAAC,CAKZ,AAND,AAGI,kBAHc,CAAC,SAAS,AAGvB,IAAK,CAAA,QAAQ,CAAE,CACZ,WAAW,CAAE,CAAC,CACjB",
+    "sources": [
+        "../src/SegmentedButton.scss"
+    ],
+    "names": [],
+    "file": "SegmentedButton.min.css"
+}
